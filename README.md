@@ -88,11 +88,4 @@
 - [PDF.js](https://mozilla.github.io/pdf.js/) - Mozilla提供的PDF渲染引擎
 - [Typecho](http://typecho.org/) - 优雅的开源博客程序
 
-## 赞助支持
 
-如果您觉得这个插件对您有帮助，欢迎赞助支持开发者：
-
-- 支付宝：your-alipay
-- 微信：your-wechat
-
-您的支持是我们持续更新的动力！
